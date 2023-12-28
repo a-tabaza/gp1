@@ -41,15 +41,15 @@
 
 [EEG Based Neuromarketing Recommender System for Video Commercials](https://ieeexplore.ieee.org/document/9660742)
 
-[]()
+[Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
 
-[]()
+[DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/pdf/2304.07193.pdf)
 
-[]()
+[Reproducible scaling laws for contrastive language-image learning](https://arxiv.org/pdf/2212.07143.pdf)
 
-[]()
+[MULAN: A JOINT EMBEDDING OF MUSIC AUDIO AND NATURAL LANGUAGE](https://arxiv.org/pdf/2208.12415.pdf)
 
-[]()
+[Multimodal Recommender Systems: A Survey](https://arxiv.org/pdf/2302.03883.pdf)
 
 []()
 
@@ -61,7 +61,9 @@
 
 # Architecture Diagrams (Excalidraw)
 
-[Fairouz Architecture](https://excalidraw.com/#room=3291b59483f3020e7987,Yj6rR1w67cXVu5T3lIIOoQ)
+[Fairouz Architecture (December)](https://excalidraw.com/#room=3291b59483f3020e7987,Yj6rR1w67cXVu5T3lIIOoQ)
+
+[Initial Architecture](https://excalidraw.com/#room=d9c1d2c95ec571a1217d,POzGJli3j1-zRN5v-LFPhA)
 
 # GitHub Repositories
 
